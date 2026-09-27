@@ -5,13 +5,5 @@
 __pycache__/
 *.pyc
 
-# Runtime output & local data (not meant to be shared via git)
+# Converted output (not meant to be shared via git)
 output/
-test_videos/
-data/speaker_profiles.json
-
-# process/batch.py runtime state (per-video progress table + lock file)
-# and its logs - machine-local, regenerated automatically, not meant to
-# be shared via git.
-state/
-logs/

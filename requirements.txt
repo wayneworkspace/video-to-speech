@@ -1,7 +1,1 @@
-openai-whisper
 python-dotenv
-pyannote.audio
-soundfile
-anthropic
-numpy
-psutil
